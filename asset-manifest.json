@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://nickty.github.io/csb-7jgd7/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://nickty.github.io/csb-7jgd7/static/js/main.fd20275d.chunk.js",
+    "main.js.map": "https://nickty.github.io/csb-7jgd7/static/js/main.fd20275d.chunk.js.map",
+    "runtime-main.js": "https://nickty.github.io/csb-7jgd7/static/js/runtime-main.5506beee.js",
+    "runtime-main.js.map": "https://nickty.github.io/csb-7jgd7/static/js/runtime-main.5506beee.js.map",
+    "static/js/2.2350909c.chunk.js": "https://nickty.github.io/csb-7jgd7/static/js/2.2350909c.chunk.js",
+    "static/js/2.2350909c.chunk.js.map": "https://nickty.github.io/csb-7jgd7/static/js/2.2350909c.chunk.js.map",
+    "index.html": "https://nickty.github.io/csb-7jgd7/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://nickty.github.io/csb-7jgd7/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.2350909c.chunk.js.LICENSE.txt": "https://nickty.github.io/csb-7jgd7/static/js/2.2350909c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5506beee.js",
+    "static/js/2.2350909c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.fd20275d.chunk.js"
+  ]
+}
